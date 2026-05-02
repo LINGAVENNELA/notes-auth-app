@@ -72,6 +72,8 @@ input:focus, textarea:focus {
   border-color: #C9A2E0 !important;
   box-shadow: 0 0 0 3px rgba(201, 162, 224, 0.15);
 }
+
+:root {
   color: var(--text);
   background: var(--bg);
   font-synthesis: none;
